@@ -1,0 +1,117 @@
+.et_pb_menu__menu>nav>ul>li {
+    height: fit-content;
+}
+
+.et_pb_menu__menu>nav>ul>li.button {
+    font-size: 120% !important;
+    margin-top: 0.1vw;
+}
+
+.et_pb_menu__menu>nav>ul>li.button>a {
+    color: #ffffff !important;
+    padding: .2em 0 0.3em 0 !important;
+}
+
+#menu-main li a {
+    font-family: var(--graph-ff);
+    font-size: 1.75em;
+    color: var(--anthrazit);
+    padding: calc( 0.6em + 7px) 0;
+}
+
+#menu-mobile li a {
+    font-family: var(--graph-ff);
+    font-size: 1.75em;
+    color: var(--anthrazit);
+    padding: calc( 0.6em + 7px) 0;
+}
+
+#mobile_menu2 li a {
+    font-family: var(--graph-ff);
+    font-size: 1.25em;
+    color: var(--anthrazit);
+}
+
+#mobile_menu2 li.button a {
+    color: #ffffff !important;
+}
+
+#mobile_menu2 li.button {
+    width: 100%;
+    text-align: center;
+}
+
+#mobile_menu2 {
+    margin-top: 10px;
+}
+
+#main-head-menu {
+    transition: 0.25s;
+}
+
+span.mobile_menu_bar:before{
+    color:var(--red) !important;
+}
+
+#main-head-menu.menu-bg {
+    background-color: #ffffff !important;
+}
+
+#main-head-menu.menu-bg #menu-main li a {
+    font-size: 1.25em;
+}
+
+#main-head-menu .et_pb_menu__logo img {
+    transition: 0.25s;
+    height: 80px;
+}
+
+#main-head-menu.menu-bg .et_pb_menu__logo img {
+    height: 40px;
+}
+
+
+/******************* I HATE EVERYTHING THIS IS JANK ***************/
+@media only screen and (max-width: 1100px) {
+    li.menu-item a {
+        font-size: 1.5em !important;
+    }
+}
+
+.sub-menu li {
+    line-height: 1em !important;
+}
+
+.sub-menu li a {
+    line-height: 1em !important;
+    padding: 0.5em 0 !important;
+}
+
+#mobile-head-menu {
+    transition: 0.25s;
+}
+
+#mobile-head-menu.menu-bg {
+    background-color: #ffffff !important;
+}
+
+#mobile-head-menu.menu-bg #menu-mobile li a {
+    font-size: 1.25em;
+}
+
+#mobile-head-menu .et_pb_menu__logo img {
+    transition: 0.25s;
+    height: 80px;
+}
+
+#mobile-head-menu.menu-bg .et_pb_menu__logo img {
+    height: 40px;
+}
+
+.et_pb_fullwidth_menu .et-menu>li, .et_pb_menu .et-menu>li {
+    padding-right: 1em !important;
+}
+
+/*#main-head-menu, #mobile-head-menu {
+    background-color: white !important;
+}*/

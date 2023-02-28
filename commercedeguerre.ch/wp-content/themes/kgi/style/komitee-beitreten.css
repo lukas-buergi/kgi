@@ -1,0 +1,111 @@
+#overlay-komitee-beitreten {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: #232323a4;
+    background-blend-mode: darken;
+    z-index: 100000;
+    visibility: hidden;
+    opacity: 0;
+    transition: 0.25s;
+}
+
+#overlay-komitee-beitreten.show {
+    visibility: visible;
+    opacity: 1;
+}
+
+#container-komitee-beitreten {
+    width: 90vw;
+    max-width: 750px;
+    background-color: white;
+    border-radius: 5px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 2em;
+    height: fit-content;
+}
+
+@media only screen and (max-width:980px) {
+    #overlay-komitee-beitreten {
+        display: grid;
+        height: 100vh;
+        overflow: auto !important;
+    }
+    
+    #container-komitee-beitreten {
+        position: unset;
+        margin: calc((100vh - var(--komiteecontainer)) / 2) auto 100vh auto;
+        top: unset;
+        left: unset;
+        transform: unset;
+    }
+}
+
+#form-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 2em;
+    row-gap: 1em;
+}
+
+#links-mobile {
+    display: none;
+}
+
+@media only screen and (max-width: 750px) {
+    #form-grid {
+        grid-template-columns: 1fr;
+    }
+
+    #links-desk {
+        display: none;
+    }
+
+    #links-mobile {
+        display: unset;
+    }
+}
+
+input[type="text"], input[type="number"], input[type="email"] {
+    width: 100%;
+    font-size: 1em;
+    border: none;
+    border-bottom: 1px solid var(--anthrazit);
+}
+
+#overlay-komitee-verarbeiten {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    height: calc(100 * var(--vh));
+    background-color: #ffffff;
+    background-blend-mode: darken;
+    z-index: 1000000;
+    transition: 2s;
+}
+
+#overlay-komitee-verarbeiten.hidden {
+    visibility: hidden;
+    opacity: 0;
+}
+
+#container-komitee-verarbeiten {
+    width: 90vw;
+    max-width: 750px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#komitee-beitreten, #beitreten-schliessen-desk, #beitreten-schliessen-mob {
+    color: var(--primary-color);
+    cursor: pointer;
+}

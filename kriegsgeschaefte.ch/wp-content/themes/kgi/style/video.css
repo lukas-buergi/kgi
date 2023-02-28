@@ -1,0 +1,6 @@
+video {
+    max-width: 15cm;
+    display: flex;
+    margin: auto;
+    margin-bottom: 4rem;
+}

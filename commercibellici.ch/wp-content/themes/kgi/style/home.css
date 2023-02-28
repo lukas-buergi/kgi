@@ -1,0 +1,116 @@
+#hero-desk, #hero-mobile {
+    min-height: 100vh;
+    min-height: calc(var(--vh, 1vh) * 100);
+    background-size:100% 100%;
+}
+
+#hero-mobile {
+    display: none;
+}
+
+@media screen and (max-width: 1080px), screen and (max-height: 600px) {
+    #hero-desk {
+        display: none;
+    }
+    #hero-mobile {
+        display: block;
+    }
+    #home_hero_container {
+        grid-template-columns: 1fr !important;
+    }
+}
+
+@media screen and (max-height: 980px) {
+    #hero-desk #hero_text {
+        font-size: clamp(14px, 2.55vh, 18px) !important;
+    }
+}
+
+#hero-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-height: 100vh;
+    min-height: calc(var(--vh, 1vh) * 100);
+    width: 100vw;
+    background-color: #ffffffea;
+    visibility: hidden;
+    opacity: 0;
+    transition: 1s;
+}
+
+#hero-overlay.show {
+    visibility: visible;
+    opacity: 1;
+}
+
+#hero-overlay #hero_text {
+    display: grid;
+    grid-template-columns: 1fr;
+    column-gap: 40px;
+    min-height: 100vh;
+    min-height: calc(var(--vh, 1vh) * 100);
+    width: 90vw;
+    max-width: 500px;
+    margin: auto;
+    padding-top: 40px;
+    font-size: clamp(14px, 2.55vh, 18px);
+    font-weight: 700 !important;
+}
+
+@media only screen and (max-width: 500px) {
+    #hero-overlay #hero_text {
+        font-size: 80%;
+    }
+    
+    #hero-overlay #hero_text h1 {
+        font-size: 250%;
+    }
+}
+
+#hero-overlay #hero_text #cont-margin {
+    margin: auto;
+}
+
+#et-main-area {
+    padding: 0 !important;
+}
+
+#home_hero_container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 40px;
+    min-height: 100vh;
+    min-height: calc(var(--vh, 1vh) * 100);
+    width: 90vw;
+    margin: auto;
+}
+
+@media only screen and (max-width: 1100px) {
+    #home_hero_container {
+        grid-template-columns: 16fr 12fr;
+    }
+}
+
+#hero_img {
+    margin: auto auto 40vh auto;
+    width: 60vh;
+    max-width: 90vw;
+}
+
+#hero_img img {
+    transform: translateY(72%);
+}
+
+#hero_text {
+    margin: auto;
+}
+
+
+#more::before {
+    content: '';
+    display: block;
+    height:      75px;
+    margin-top: -75px;
+    visibility: hidden;
+  }
