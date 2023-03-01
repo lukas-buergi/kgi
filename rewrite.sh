@@ -8,6 +8,11 @@ prefixIT="${prefixBase}commercibellici.ch"
 
 git checkout de603820d67d0f9144181f7d6debfc2c2bc766da -- *.ch/
 
+wget -N https://commercibellici.ch/wp-content/themes/kgi/style/page.css
+cp page.css commercibellici.ch/wp-content/themes/kgi/style/
+cp page.css kriegsgeschaefte.ch/wp-content/themes/kgi/style/
+cp page.css commercedeguerre.ch/wp-content/themes/kgi/style/
+
 wget -N https://commercedeguerre.ch/wp-includes/css/classic-themes.min.css?ver=1
 cp "classic-themes.min.css?ver=1" commercedeguerre.ch/wp-includes/css/
 
@@ -42,25 +47,30 @@ rewrite_lang(){
   urlIT+=$prefixIT
   urlIT+='|g'
 
-  fix1='-e s|et-divi-customizer-global-1671980101565.min.css|et-divi-customizer-global-16035459764941.min.css|g'
-
-  fix2='-e s|/12/et-core-unified-tb-60-tb-141-12-1671980101565.min.css|/1034/et-core-unified-tb-60-tb-141-1034-16056879171024.min.css|g'
+  fix1='-e s|et-divi-customizer-global-[0-9]*.min.css|'
+  fix2='-e s|/[0-9]*/et-core-unified-tb-60-tb-141-[0-9]*-[0-9]*.min.css|'
+  if [[ "$prefix" == "$prefixDE" ]]; then
+    fix1+='et-divi-customizer-global-16035459764941.min.css'
+    fix2+='/1034/et-core-unified-tb-60-tb-141-1034-16056879171024.min.css'
+  elif [[ "$prefix" == "$prefixFR" ]]; then
+    fix1+='et-divi-customizer-global-16052793644564.min.css'
+    fix2+='/855/et-core-unified-tb-60-tb-141-855-16052795077831.min.css'
+  else
+    fix1+='et-divi-customizer-global-16020068515789.min.css'
+    fix2+='/12/et-core-unified-tb-60-tb-141-12-16020068515789.min.css'
+  fi
+  fix1+='|g'
+  fix2+='|g'
 
   fix3='-e s|/wp-content/uploads/useanyfont/5841graph-ff-condensed.woff|'
   fix3+=$prefix
   fix3+='/wp-content/uploads/useanyfont/5841graph-ff-condensed.woff|g'
 
-  fix4='-e s|et-divi-customizer-global-16667963733711.min.css|et-divi-customizer-global-16052793644564.min.css|g'
-
-  fix5='-e s|/12/et-core-unified-tb-60-tb-141-12-16667963733711.min.css|/855/et-core-unified-tb-60-tb-141-855-16052795077831.min.css|g'
-
-  fix6='-e s|et-divi-customizer-global-16408833227013.min.css|et-divi-customizer-global-16020068515789.min.css|g'
-
-  fix7='-e s|/12/et-core-unified-tb-60-tb-141-12-1640883324672.min.css|/12/et-core-unified-tb-60-tb-141-12-16020068515789.min.css|g'
-
-  grep -rl -e 'href="' -e 'css' -e 'woff' "$folder" | xargs -L 1 sed -i -E $abs $root $urlDE $urlFR $urlIT $fix1 $fix2 $fix3 $fix4 $fix5 $fix6 $fix7
+  grep -rl -e 'href="' -e 'css' -e 'woff' "$folder" | xargs -L 1 sed -i -E $abs $root $urlDE $urlFR $urlIT $fix1 $fix2 $fix3
 }
 
 rewrite_lang "$prefixDE" "$prefixDE" "$prefixFR" "$prefixIT" kriegsgeschaefte.ch
 rewrite_lang "$prefixFR" "$prefixDE" "$prefixFR" "$prefixIT" commercedeguerre.ch
 rewrite_lang "$prefixIT" "$prefixDE" "$prefixFR" "$prefixIT" commercibellici.ch
+
+python3 -m http.server 8432
