@@ -1,7 +1,7 @@
 #!/bin/bash
 
-#prefix="file://wsl.localhost/Debian/home/t4b/work/gsoa/kgi-website-static/kriegsgeschaefte.ch"
-prefixBase='http://localhost:8432/'
+#prefixBase='http://localhost:8432/'
+prefixBase='https://gsoa.ch/wp-content/uploads/archive/'
 prefixDE="${prefixBase}kriegsgeschaefte.ch"
 prefixFR="${prefixBase}commercedeguerre.ch"
 prefixIT="${prefixBase}commercibellici.ch"
@@ -72,5 +72,13 @@ rewrite_lang(){
 rewrite_lang "$prefixDE" "$prefixDE" "$prefixFR" "$prefixIT" kriegsgeschaefte.ch
 rewrite_lang "$prefixFR" "$prefixDE" "$prefixFR" "$prefixIT" commercedeguerre.ch
 rewrite_lang "$prefixIT" "$prefixDE" "$prefixFR" "$prefixIT" commercibellici.ch
+
+echo '<head><meta http-equiv="refresh" content="0; url=https://gsoa.ch/spenden/" /></head><body></body>' > kriegsgeschaefte.ch/spenden/index.html
+echo '<head><meta http-equiv="refresh" content="0; url=https://gssa.ch/dons/" /></head><body></body>' > commercedeguerre.ch/faire-un-don/index.html
+echo '<head><meta http-equiv="refresh" content="0; url=https://it.gsoa.ch/donare/" /></head><body></body>' > commercibellici.ch/donare/index.html
+echo '<head><meta http-equiv="refresh" content="0; url=https://gsoa.ch/kontakt/" /></head><body></body>' > kriegsgeschaefte.ch/kontakt/index.html
+echo '<head><meta http-equiv="refresh" content="0; url=https://gssa.ch/contacts/" /></head><body></body>' > commercedeguerre.ch/contact/index.html
+echo '<head><meta http-equiv="refresh" content="0; url=https://it.gsoa.ch/contatti/" /></head><body></body>' > commercibellici.ch/contatti/index.html
+
 
 python3 -m http.server 8432

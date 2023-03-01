@@ -1,7 +1,7 @@
 				@font-face {
 					font-family: 'graph-ff-condensed';
-					src: url('http://localhost:8432/commercibellici.ch/wp-content/uploads/useanyfont/5841graph-ff-condensed.woff2') format('woff2'),
-						url('http://localhost:8432/commercibellici.ch/wp-content/uploads/useanyfont/5841graph-ff-condensed.woff') format('woff');
+					src: url('https://gsoa.ch/wp-content/uploads/archive/commercibellici.ch/wp-content/uploads/useanyfont/5841graph-ff-condensed.woff2') format('woff2'),
+						url('https://gsoa.ch/wp-content/uploads/archive/commercibellici.ch/wp-content/uploads/useanyfont/5841graph-ff-condensed.woff') format('woff');
 					font-display: auto;
 				}
 
