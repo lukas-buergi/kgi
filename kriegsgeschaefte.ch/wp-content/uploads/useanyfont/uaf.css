@@ -1,7 +1,7 @@
 				@font-face {
 					font-family: 'graph-ff-condensed';
-					src: url('/wp-content/uploads/useanyfont/5841graph-ff-condensed.woff2') format('woff2'),
-						url('/wp-content/uploads/useanyfont/5841graph-ff-condensed.woff') format('woff');
+					src: url('http://localhost:8432/kriegsgeschaefte.ch/wp-content/uploads/useanyfont/5841graph-ff-condensed.woff2') format('woff2'),
+						url('http://localhost:8432/kriegsgeschaefte.ch/wp-content/uploads/useanyfont/5841graph-ff-condensed.woff') format('woff');
 					font-display: auto;
 				}
 

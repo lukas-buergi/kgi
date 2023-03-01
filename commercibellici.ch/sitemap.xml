@@ -1,132 +1,132 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://commercibellici.ch/sitemap.xsl"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<?xml-stylesheet type="text/xsl" href="http://localhost:8432/commercibellici.ch/sitemap.xsl"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <!-- Sitemap erzeugt am 2020-11-29 14:25:11 GMT -->
 	<url>
-		<loc>https://commercibellici.ch/</loc>
+		<loc>http://localhost:8432/commercibellici.ch/</loc>
 		<lastmod>2020-09-30T08:28+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://commercibellici.ch/partecipare/volantinaggi-nelle-bucalettere</loc>
+		<loc>http://localhost:8432/commercibellici.ch/partecipare/volantinaggi-nelle-bucalettere</loc>
 		<lastmod>2020-10-15T09:46+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://commercibellici.ch/partecipare/ordinare-materiale</loc>
+		<loc>http://localhost:8432/commercibellici.ch/partecipare/ordinare-materiale</loc>
 		<lastmod>2020-10-15T09:46+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://commercibellici.ch/partecipare/download</loc>
+		<loc>http://localhost:8432/commercibellici.ch/partecipare/download</loc>
 		<lastmod>2020-10-02T08:09+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://commercibellici.ch/protezione-dei-dati</loc>
+		<loc>http://localhost:8432/commercibellici.ch/protezione-dei-dati</loc>
 		<lastmod>2020-10-02T11:11+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://commercibellici.ch/impressum</loc>
+		<loc>http://localhost:8432/commercibellici.ch/impressum</loc>
 		<lastmod>2020-10-02T08:07+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://commercibellici.ch/calcolatore</loc>
+		<loc>http://localhost:8432/commercibellici.ch/calcolatore</loc>
 		<lastmod>2020-11-01T00:39+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://commercibellici.ch/di-cosa-si-tratta</loc>
+		<loc>http://localhost:8432/commercibellici.ch/di-cosa-si-tratta</loc>
 		<lastmod>2020-10-01T07:58+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://commercibellici.ch/di-cosa-si-tratta/argomenti</loc>
+		<loc>http://localhost:8432/commercibellici.ch/di-cosa-si-tratta/argomenti</loc>
 		<lastmod>2020-10-01T08:15+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://commercibellici.ch/di-cosa-si-tratta/liniziativa</loc>
+		<loc>http://localhost:8432/commercibellici.ch/di-cosa-si-tratta/liniziativa</loc>
 		<lastmod>2020-10-15T09:43+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://commercibellici.ch/di-cosa-si-tratta/esempi-di-casi</loc>
+		<loc>http://localhost:8432/commercibellici.ch/di-cosa-si-tratta/esempi-di-casi</loc>
 		<lastmod>2020-10-15T09:43+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://commercibellici.ch/di-cosa-si-tratta/clima-e-armi</loc>
+		<loc>http://localhost:8432/commercibellici.ch/di-cosa-si-tratta/clima-e-armi</loc>
 		<lastmod>2020-10-15T09:43+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://commercibellici.ch/di-cosa-si-tratta/investimenti-sostenibili</loc>
+		<loc>http://localhost:8432/commercibellici.ch/di-cosa-si-tratta/investimenti-sostenibili</loc>
 		<lastmod>2020-11-04T12:55+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://commercibellici.ch/di-cosa-si-tratta/esempi</loc>
+		<loc>http://localhost:8432/commercibellici.ch/di-cosa-si-tratta/esempi</loc>
 		<lastmod>2020-10-15T09:45+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://commercibellici.ch/news</loc>
+		<loc>http://localhost:8432/commercibellici.ch/news</loc>
 		<lastmod>2020-09-30T08:25+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://commercibellici.ch/sostegno</loc>
+		<loc>http://localhost:8432/commercibellici.ch/sostegno</loc>
 		<lastmod>2020-11-18T13:49+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://commercibellici.ch/partecipare</loc>
+		<loc>http://localhost:8432/commercibellici.ch/partecipare</loc>
 		<lastmod>2020-10-15T09:45+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://commercibellici.ch/donare</loc>
+		<loc>http://localhost:8432/commercibellici.ch/donare</loc>
 		<lastmod>2020-10-15T09:46+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://commercibellici.ch/contatti</loc>
+		<loc>http://localhost:8432/commercibellici.ch/contatti</loc>
 		<lastmod>2020-10-15T09:47+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://commercibellici.ch/risultato-positivo-per-liniziativa-contro-i-commerci-bellici</loc>
+		<loc>http://localhost:8432/commercibellici.ch/risultato-positivo-per-liniziativa-contro-i-commerci-bellici</loc>
 		<lastmod>2020-11-29T14:24+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://commercibellici.ch/ampia-alleanza-a-sostegno-delliniziativa-contro-i-commerci-bellici</loc>
+		<loc>http://localhost:8432/commercibellici.ch/ampia-alleanza-a-sostegno-delliniziativa-contro-i-commerci-bellici</loc>
 		<lastmod>2020-11-09T15:11+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://commercibellici.ch/fondato-comitato-ticinese-per-il-si-alliniziativa-contro-i-commerci-bellici</loc>
+		<loc>http://localhost:8432/commercibellici.ch/fondato-comitato-ticinese-per-il-si-alliniziativa-contro-i-commerci-bellici</loc>
 		<lastmod>2020-11-04T08:01+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://commercibellici.ch/iniziativa-contro-i-commerci-bellici-alleanza-lancia-la-campagna-con-nonna-graffitara</loc>
+		<loc>http://localhost:8432/commercibellici.ch/iniziativa-contro-i-commerci-bellici-alleanza-lancia-la-campagna-con-nonna-graffitara</loc>
 		<lastmod>2020-10-04T11:40+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://commercibellici.ch/nach-ablehnung-der-kriegsgeschaefte-initiative-gsoa-und-junge-gruene-bereit-fuer-abstimmungskampf</loc>
+		<loc>http://localhost:8432/commercibellici.ch/nach-ablehnung-der-kriegsgeschaefte-initiative-gsoa-und-junge-gruene-bereit-fuer-abstimmungskampf</loc>
 		<lastmod>2020-09-17T08:37+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://commercibellici.ch/mehrheit-im-nationalrat-fuer-profit-durch-kriege-junge-gruene-und-gsoa-empoert</loc>
+		<loc>http://localhost:8432/commercibellici.ch/mehrheit-im-nationalrat-fuer-profit-durch-kriege-junge-gruene-und-gsoa-empoert</loc>
 		<lastmod>2020-09-17T08:36+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://commercibellici.ch/sicherheitspolitische-kommission-verpasst-chance-zur-abkehr-vom-geschaeft-mit-dem-tod</loc>
+		<loc>http://localhost:8432/commercibellici.ch/sicherheitspolitische-kommission-verpasst-chance-zur-abkehr-vom-geschaeft-mit-dem-tod</loc>
 		<lastmod>2020-09-17T08:35+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://commercibellici.ch/mutloser-bundesrat-verkennt-wille-der-bevoelkerung</loc>
+		<loc>http://localhost:8432/commercibellici.ch/mutloser-bundesrat-verkennt-wille-der-bevoelkerung</loc>
 		<lastmod>2020-09-17T08:34+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://commercibellici.ch/kriegsgeschaefte-initiative-offiziell-zustande-gekommen</loc>
+		<loc>http://localhost:8432/commercibellici.ch/kriegsgeschaefte-initiative-offiziell-zustande-gekommen</loc>
 		<lastmod>2020-09-17T08:33+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://commercibellici.ch/kriegsgeschaefte-initiative-ist-eingereicht</loc>
+		<loc>http://localhost:8432/commercibellici.ch/kriegsgeschaefte-initiative-ist-eingereicht</loc>
 		<lastmod>2020-09-17T08:32+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://commercibellici.ch/nationalbank-im-krieg</loc>
+		<loc>http://localhost:8432/commercibellici.ch/nationalbank-im-krieg</loc>
 		<lastmod>2020-09-17T08:31+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://commercibellici.ch/nach-nur-3-monaten-50000-unterschriften-gegen-kriegsgeschaefte</loc>
+		<loc>http://localhost:8432/commercibellici.ch/nach-nur-3-monaten-50000-unterschriften-gegen-kriegsgeschaefte</loc>
 		<lastmod>2020-09-17T08:31+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://commercibellici.ch/kriegsgeschaefte-initiative-ist-lanciert</loc>
+		<loc>http://localhost:8432/commercibellici.ch/kriegsgeschaefte-initiative-ist-lanciert</loc>
 		<lastmod>2020-09-17T08:30+00:00</lastmod>
 	</url>
 </urlset>

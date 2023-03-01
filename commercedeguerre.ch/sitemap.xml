@@ -1,172 +1,172 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://commercedeguerre.ch/sitemap.xsl"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<?xml-stylesheet type="text/xsl" href="http://localhost:8432/commercedeguerre.ch/sitemap.xsl"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <!-- Sitemap erzeugt am 2020-11-29 20:30:40 GMT -->
 	<url>
-		<loc>https://commercedeguerre.ch/</loc>
+		<loc>http://localhost:8432/commercedeguerre.ch/</loc>
 		<lastmod>2020-11-04T12:06+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://commercedeguerre.ch/participer/distributions-de-flyers</loc>
+		<loc>http://localhost:8432/commercedeguerre.ch/participer/distributions-de-flyers</loc>
 		<lastmod>2020-10-21T16:08+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://commercedeguerre.ch/participer/commande-de-materiel</loc>
+		<loc>http://localhost:8432/commercedeguerre.ch/participer/commande-de-materiel</loc>
 		<lastmod>2020-10-15T09:54+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://commercedeguerre.ch/participer/telechargements</loc>
+		<loc>http://localhost:8432/commercedeguerre.ch/participer/telechargements</loc>
 		<lastmod>2020-10-04T11:43+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://commercedeguerre.ch/protection-des-donnees</loc>
+		<loc>http://localhost:8432/commercedeguerre.ch/protection-des-donnees</loc>
 		<lastmod>2020-10-02T10:39+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://commercedeguerre.ch/mentions-legales</loc>
+		<loc>http://localhost:8432/commercedeguerre.ch/mentions-legales</loc>
 		<lastmod>2020-10-02T10:41+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://commercedeguerre.ch/die-argumente</loc>
+		<loc>http://localhost:8432/commercedeguerre.ch/die-argumente</loc>
 		<lastmod>2020-10-11T13:13+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://commercedeguerre.ch/participer/commande-de-materiel/drapeau-masque-sac-de-gym</loc>
+		<loc>http://localhost:8432/commercedeguerre.ch/participer/commande-de-materiel/drapeau-masque-sac-de-gym</loc>
 		<lastmod>2020-10-15T09:58+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://commercedeguerre.ch/participer/commande-de-materiel/flyers</loc>
+		<loc>http://localhost:8432/commercedeguerre.ch/participer/commande-de-materiel/flyers</loc>
 		<lastmod>2020-10-23T10:14+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://commercedeguerre.ch/faq</loc>
+		<loc>http://localhost:8432/commercedeguerre.ch/faq</loc>
 		<lastmod>2020-11-12T17:01+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://commercedeguerre.ch/participer/distributions-de-flyers/personnes-de-contact-pour-les-comites-locales</loc>
+		<loc>http://localhost:8432/commercedeguerre.ch/participer/distributions-de-flyers/personnes-de-contact-pour-les-comites-locales</loc>
 		<lastmod>2020-10-29T11:30+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://commercedeguerre.ch/participer/distributions-de-flyers/la-carte</loc>
+		<loc>http://localhost:8432/commercedeguerre.ch/participer/distributions-de-flyers/la-carte</loc>
 		<lastmod>2020-10-21T16:07+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://commercedeguerre.ch/calculatrice</loc>
+		<loc>http://localhost:8432/commercedeguerre.ch/calculatrice</loc>
 		<lastmod>2020-11-13T15:30+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://commercedeguerre.ch/ce-dont-il-sagit</loc>
+		<loc>http://localhost:8432/commercedeguerre.ch/ce-dont-il-sagit</loc>
 		<lastmod>2020-11-04T12:07+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://commercedeguerre.ch/ce-dont-il-sagit/arguments</loc>
+		<loc>http://localhost:8432/commercedeguerre.ch/ce-dont-il-sagit/arguments</loc>
 		<lastmod>2020-10-14T11:22+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://commercedeguerre.ch/ce-dont-il-sagit/linitiative</loc>
+		<loc>http://localhost:8432/commercedeguerre.ch/ce-dont-il-sagit/linitiative</loc>
 		<lastmod>2020-10-02T11:06+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://commercedeguerre.ch/ce-dont-il-sagit/exemples-concrets</loc>
+		<loc>http://localhost:8432/commercedeguerre.ch/ce-dont-il-sagit/exemples-concrets</loc>
 		<lastmod>2020-10-02T11:06+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://commercedeguerre.ch/ce-dont-il-sagit/climat-et-rearmement</loc>
+		<loc>http://localhost:8432/commercedeguerre.ch/ce-dont-il-sagit/climat-et-rearmement</loc>
 		<lastmod>2020-10-02T11:07+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://commercedeguerre.ch/ce-dont-il-sagit/investissements-durables</loc>
+		<loc>http://localhost:8432/commercedeguerre.ch/ce-dont-il-sagit/investissements-durables</loc>
 		<lastmod>2020-11-04T13:20+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://commercedeguerre.ch/ce-dont-il-sagit/realiste-et-possible-a-mettre-en-oeuvre</loc>
+		<loc>http://localhost:8432/commercedeguerre.ch/ce-dont-il-sagit/realiste-et-possible-a-mettre-en-oeuvre</loc>
 		<lastmod>2020-11-13T13:05+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://commercedeguerre.ch/news</loc>
+		<loc>http://localhost:8432/commercedeguerre.ch/news</loc>
 		<lastmod>2020-10-01T14:22+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://commercedeguerre.ch/soutiens</loc>
+		<loc>http://localhost:8432/commercedeguerre.ch/soutiens</loc>
 		<lastmod>2020-11-18T13:49+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://commercedeguerre.ch/participer</loc>
+		<loc>http://localhost:8432/commercedeguerre.ch/participer</loc>
 		<lastmod>2020-10-02T11:09+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://commercedeguerre.ch/faire-un-don</loc>
+		<loc>http://localhost:8432/commercedeguerre.ch/faire-un-don</loc>
 		<lastmod>2020-10-02T11:02+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://commercedeguerre.ch/contact</loc>
+		<loc>http://localhost:8432/commercedeguerre.ch/contact</loc>
 		<lastmod>2020-10-02T11:10+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://commercedeguerre.ch/un-tres-bon-resultat-pour-linitiative-contre-le-commerce-de-guerre</loc>
+		<loc>http://localhost:8432/commercedeguerre.ch/un-tres-bon-resultat-pour-linitiative-contre-le-commerce-de-guerre</loc>
 		<lastmod>2020-11-29T14:34+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://commercedeguerre.ch/invitation-aux-medias-pour-le-dimanche-de-votations</loc>
+		<loc>http://localhost:8432/commercedeguerre.ch/invitation-aux-medias-pour-le-dimanche-de-votations</loc>
 		<lastmod>2020-11-26T12:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://commercedeguerre.ch/la-bas-soutient-linitiative-contre-le-commerce-de-guerre</loc>
+		<loc>http://localhost:8432/commercedeguerre.ch/la-bas-soutient-linitiative-contre-le-commerce-de-guerre</loc>
 		<lastmod>2020-11-18T13:58+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://commercedeguerre.ch/une-large-alliance-sengage-pour-linitiative-contre-le-commerce-de-guerre</loc>
+		<loc>http://localhost:8432/commercedeguerre.ch/une-large-alliance-sengage-pour-linitiative-contre-le-commerce-de-guerre</loc>
 		<lastmod>2020-11-09T15:10+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://commercedeguerre.ch/une-etude-montre-lampleur-du-commerce-de-guerre-suisse</loc>
+		<loc>http://localhost:8432/commercedeguerre.ch/une-etude-montre-lampleur-du-commerce-de-guerre-suisse</loc>
 		<lastmod>2020-11-02T13:43+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://commercedeguerre.ch/un-large-comite-genevois-lance-sa-campagne-en-faveur-de-linitiative-contre-le-commerce-de-guerre</loc>
+		<loc>http://localhost:8432/commercedeguerre.ch/un-large-comite-genevois-lance-sa-campagne-en-faveur-de-linitiative-contre-le-commerce-de-guerre</loc>
 		<lastmod>2020-10-28T10:37+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://commercedeguerre.ch/largent-suisse-tue-a-neuchatel-la-campagne-en-faveur-de-linitiative-contre-le-commerce-de-guerre-est-lancee</loc>
+		<loc>http://localhost:8432/commercedeguerre.ch/largent-suisse-tue-a-neuchatel-la-campagne-en-faveur-de-linitiative-contre-le-commerce-de-guerre-est-lancee</loc>
 		<lastmod>2020-10-28T10:46+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://commercedeguerre.ch/initiative-contre-le-commerce-de-guerre-lalliance-contre-le-commerce-de-guerre-lance-sa-campagne-de-votation-avec-louise-schneider</loc>
+		<loc>http://localhost:8432/commercedeguerre.ch/initiative-contre-le-commerce-de-guerre-lalliance-contre-le-commerce-de-guerre-lance-sa-campagne-de-votation-avec-louise-schneider</loc>
 		<lastmod>2020-10-28T10:42+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://commercedeguerre.ch/nach-ablehnung-der-kriegsgeschaefte-initiative-gsoa-und-junge-gruene-bereit-fuer-abstimmungskampf</loc>
+		<loc>http://localhost:8432/commercedeguerre.ch/nach-ablehnung-der-kriegsgeschaefte-initiative-gsoa-und-junge-gruene-bereit-fuer-abstimmungskampf</loc>
 		<lastmod>2020-10-01T22:14+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://commercedeguerre.ch/mehrheit-im-nationalrat-fuer-profit-durch-kriege-junge-gruene-und-gsoa-empoert</loc>
+		<loc>http://localhost:8432/commercedeguerre.ch/mehrheit-im-nationalrat-fuer-profit-durch-kriege-junge-gruene-und-gsoa-empoert</loc>
 		<lastmod>2020-10-01T22:31+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://commercedeguerre.ch/sicherheitspolitische-kommission-verpasst-chance-zur-abkehr-vom-geschaeft-mit-dem-tod</loc>
+		<loc>http://localhost:8432/commercedeguerre.ch/sicherheitspolitische-kommission-verpasst-chance-zur-abkehr-vom-geschaeft-mit-dem-tod</loc>
 		<lastmod>2020-10-01T22:40+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://commercedeguerre.ch/mutloser-bundesrat-verkennt-wille-der-bevoelkerung</loc>
+		<loc>http://localhost:8432/commercedeguerre.ch/mutloser-bundesrat-verkennt-wille-der-bevoelkerung</loc>
 		<lastmod>2020-10-01T22:20+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://commercedeguerre.ch/kriegsgeschaefte-initiative-offiziell-zustande-gekommen</loc>
+		<loc>http://localhost:8432/commercedeguerre.ch/kriegsgeschaefte-initiative-offiziell-zustande-gekommen</loc>
 		<lastmod>2020-10-01T22:26+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://commercedeguerre.ch/kriegsgeschaefte-initiative-ist-eingereicht</loc>
+		<loc>http://localhost:8432/commercedeguerre.ch/kriegsgeschaefte-initiative-ist-eingereicht</loc>
 		<lastmod>2020-10-01T22:27+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://commercedeguerre.ch/nationalbank-im-krieg</loc>
+		<loc>http://localhost:8432/commercedeguerre.ch/nationalbank-im-krieg</loc>
 		<lastmod>2020-10-01T22:15+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://commercedeguerre.ch/nach-nur-3-monaten-50000-unterschriften-gegen-kriegsgeschaefte</loc>
+		<loc>http://localhost:8432/commercedeguerre.ch/nach-nur-3-monaten-50000-unterschriften-gegen-kriegsgeschaefte</loc>
 		<lastmod>2020-10-01T22:15+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://commercedeguerre.ch/kriegsgeschaefte-initiative-ist-lanciert</loc>
+		<loc>http://localhost:8432/commercedeguerre.ch/kriegsgeschaefte-initiative-ist-lanciert</loc>
 		<lastmod>2020-10-01T22:15+00:00</lastmod>
 	</url>
 </urlset>

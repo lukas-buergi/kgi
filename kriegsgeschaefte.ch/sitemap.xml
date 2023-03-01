@@ -1,168 +1,168 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://kriegsgeschaefte.ch/sitemap.xsl"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<?xml-stylesheet type="text/xsl" href="http://localhost:8432/kriegsgeschaefte.ch/sitemap.xsl"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <!-- Sitemap erzeugt am 2022-07-30 17:00:13 GMT -->
 	<url>
-		<loc>https://kriegsgeschaefte.ch/</loc>
+		<loc>http://localhost:8432/kriegsgeschaefte.ch/</loc>
 		<lastmod>2020-11-04T11:59+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://kriegsgeschaefte.ch/mitmachen/briefkastenflyern</loc>
+		<loc>http://localhost:8432/kriegsgeschaefte.ch/mitmachen/briefkastenflyern</loc>
 		<lastmod>2020-10-26T10:04+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://kriegsgeschaefte.ch/mitmachen/material-bestellen</loc>
+		<loc>http://localhost:8432/kriegsgeschaefte.ch/mitmachen/material-bestellen</loc>
 		<lastmod>2020-10-15T09:30+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://kriegsgeschaefte.ch/mitmachen/download</loc>
+		<loc>http://localhost:8432/kriegsgeschaefte.ch/mitmachen/download</loc>
 		<lastmod>2020-11-04T08:00+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://kriegsgeschaefte.ch/datenschutz</loc>
+		<loc>http://localhost:8432/kriegsgeschaefte.ch/datenschutz</loc>
 		<lastmod>2020-10-01T14:23+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://kriegsgeschaefte.ch/impressum</loc>
+		<loc>http://localhost:8432/kriegsgeschaefte.ch/impressum</loc>
 		<lastmod>2020-09-29T15:21+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://kriegsgeschaefte.ch/mitmachen/material-bestellen/material-bestellen-2</loc>
+		<loc>http://localhost:8432/kriegsgeschaefte.ch/mitmachen/material-bestellen/material-bestellen-2</loc>
 		<lastmod>2020-10-21T12:21+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://kriegsgeschaefte.ch/die-argumente</loc>
+		<loc>http://localhost:8432/kriegsgeschaefte.ch/die-argumente</loc>
 		<lastmod>2020-10-11T13:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://kriegsgeschaefte.ch/mitmachen/material-bestellen/flyer-bestellen</loc>
+		<loc>http://localhost:8432/kriegsgeschaefte.ch/mitmachen/material-bestellen/flyer-bestellen</loc>
 		<lastmod>2020-10-23T10:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://kriegsgeschaefte.ch/mitmachen/briefkastenflyern/kontaktpersonen-regionalkomitee</loc>
+		<loc>http://localhost:8432/kriegsgeschaefte.ch/mitmachen/briefkastenflyern/kontaktpersonen-regionalkomitee</loc>
 		<lastmod>2020-10-29T11:27+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://kriegsgeschaefte.ch/mitmachen/briefkastenflyern/karte</loc>
+		<loc>http://localhost:8432/kriegsgeschaefte.ch/mitmachen/briefkastenflyern/karte</loc>
 		<lastmod>2020-10-21T12:24+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://kriegsgeschaefte.ch/rechner</loc>
+		<loc>http://localhost:8432/kriegsgeschaefte.ch/rechner</loc>
 		<lastmod>2020-11-01T00:08+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://kriegsgeschaefte.ch/darum-gehts</loc>
+		<loc>http://localhost:8432/kriegsgeschaefte.ch/darum-gehts</loc>
 		<lastmod>2020-11-04T12:01+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://kriegsgeschaefte.ch/darum-gehts/argumente</loc>
+		<loc>http://localhost:8432/kriegsgeschaefte.ch/darum-gehts/argumente</loc>
 		<lastmod>2020-10-16T08:14+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://kriegsgeschaefte.ch/darum-gehts/die-initiative</loc>
+		<loc>http://localhost:8432/kriegsgeschaefte.ch/darum-gehts/die-initiative</loc>
 		<lastmod>2020-09-18T12:45+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://kriegsgeschaefte.ch/darum-gehts/fallbeispiele</loc>
+		<loc>http://localhost:8432/kriegsgeschaefte.ch/darum-gehts/fallbeispiele</loc>
 		<lastmod>2020-09-25T11:55+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://kriegsgeschaefte.ch/darum-gehts/klimaschaedlichkeit</loc>
+		<loc>http://localhost:8432/kriegsgeschaefte.ch/darum-gehts/klimaschaedlichkeit</loc>
 		<lastmod>2020-09-18T06:02+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://kriegsgeschaefte.ch/darum-gehts/nachhaltige-investitionen</loc>
+		<loc>http://localhost:8432/kriegsgeschaefte.ch/darum-gehts/nachhaltige-investitionen</loc>
 		<lastmod>2020-11-04T12:02+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://kriegsgeschaefte.ch/darum-gehts/faq</loc>
+		<loc>http://localhost:8432/kriegsgeschaefte.ch/darum-gehts/faq</loc>
 		<lastmod>2020-11-10T11:36+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://kriegsgeschaefte.ch/darum-gehts/realistisch-und-umsetzbar</loc>
+		<loc>http://localhost:8432/kriegsgeschaefte.ch/darum-gehts/realistisch-und-umsetzbar</loc>
 		<lastmod>2020-11-06T14:26+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://kriegsgeschaefte.ch/news</loc>
+		<loc>http://localhost:8432/kriegsgeschaefte.ch/news</loc>
 		<lastmod>2020-09-18T10:37+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://kriegsgeschaefte.ch/unterstuetzende</loc>
+		<loc>http://localhost:8432/kriegsgeschaefte.ch/unterstuetzende</loc>
 		<lastmod>2020-11-23T11:28+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://kriegsgeschaefte.ch/mitmachen</loc>
+		<loc>http://localhost:8432/kriegsgeschaefte.ch/mitmachen</loc>
 		<lastmod>2020-09-17T07:16+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://kriegsgeschaefte.ch/spenden</loc>
+		<loc>http://localhost:8432/kriegsgeschaefte.ch/spenden</loc>
 		<lastmod>2021-03-05T14:15+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://kriegsgeschaefte.ch/kontakt</loc>
+		<loc>http://localhost:8432/kriegsgeschaefte.ch/kontakt</loc>
 		<lastmod>2020-11-20T11:38+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://kriegsgeschaefte.ch/beachtlicher-erfolg-fuer-die-kriegsgeschaefte-initiative</loc>
+		<loc>http://localhost:8432/kriegsgeschaefte.ch/beachtlicher-erfolg-fuer-die-kriegsgeschaefte-initiative</loc>
 		<lastmod>2020-11-29T14:32+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://kriegsgeschaefte.ch/medieneinladung-abstimmungssonntag-kriegsgeschaefte-initiative</loc>
+		<loc>http://localhost:8432/kriegsgeschaefte.ch/medieneinladung-abstimmungssonntag-kriegsgeschaefte-initiative</loc>
 		<lastmod>2020-11-26T11:41+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://kriegsgeschaefte.ch/die-abs-unterstuetzt-die-kriegsgeschaefte-initiative</loc>
+		<loc>http://localhost:8432/kriegsgeschaefte.ch/die-abs-unterstuetzt-die-kriegsgeschaefte-initiative</loc>
 		<lastmod>2020-11-18T13:59+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://kriegsgeschaefte.ch/breite-allianz-setzt-sich-fuer-kriegsgeschaefte-initiative-ein</loc>
+		<loc>http://localhost:8432/kriegsgeschaefte.ch/breite-allianz-setzt-sich-fuer-kriegsgeschaefte-initiative-ein</loc>
 		<lastmod>2020-11-09T15:08+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://kriegsgeschaefte.ch/studie-zeigt-riesiges-ausmass-der-schweizer-kriegsgeschaefte</loc>
+		<loc>http://localhost:8432/kriegsgeschaefte.ch/studie-zeigt-riesiges-ausmass-der-schweizer-kriegsgeschaefte</loc>
 		<lastmod>2021-01-29T16:45+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://kriegsgeschaefte.ch/ich-kann-keinen-mehraufwand-feststellen</loc>
+		<loc>http://localhost:8432/kriegsgeschaefte.ch/ich-kann-keinen-mehraufwand-feststellen</loc>
 		<lastmod>2020-10-28T07:38+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://kriegsgeschaefte.ch/kriegsgeschaefte-initiative-buendnis-lanciert-abstimmungskampf</loc>
+		<loc>http://localhost:8432/kriegsgeschaefte.ch/kriegsgeschaefte-initiative-buendnis-lanciert-abstimmungskampf</loc>
 		<lastmod>2020-10-02T07:20+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://kriegsgeschaefte.ch/nach-ablehnung-der-kriegsgeschaefte-initiative-gsoa-und-junge-gruene-bereit-fuer-abstimmungskampf</loc>
+		<loc>http://localhost:8432/kriegsgeschaefte.ch/nach-ablehnung-der-kriegsgeschaefte-initiative-gsoa-und-junge-gruene-bereit-fuer-abstimmungskampf</loc>
 		<lastmod>2020-09-17T08:37+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://kriegsgeschaefte.ch/mehrheit-im-nationalrat-fuer-profit-durch-kriege-junge-gruene-und-gsoa-empoert</loc>
+		<loc>http://localhost:8432/kriegsgeschaefte.ch/mehrheit-im-nationalrat-fuer-profit-durch-kriege-junge-gruene-und-gsoa-empoert</loc>
 		<lastmod>2020-09-17T08:36+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://kriegsgeschaefte.ch/sicherheitspolitische-kommission-verpasst-chance-zur-abkehr-vom-geschaeft-mit-dem-tod</loc>
+		<loc>http://localhost:8432/kriegsgeschaefte.ch/sicherheitspolitische-kommission-verpasst-chance-zur-abkehr-vom-geschaeft-mit-dem-tod</loc>
 		<lastmod>2020-09-17T08:35+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://kriegsgeschaefte.ch/mutloser-bundesrat-verkennt-wille-der-bevoelkerung</loc>
+		<loc>http://localhost:8432/kriegsgeschaefte.ch/mutloser-bundesrat-verkennt-wille-der-bevoelkerung</loc>
 		<lastmod>2020-09-17T08:34+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://kriegsgeschaefte.ch/kriegsgeschaefte-initiative-offiziell-zustande-gekommen</loc>
+		<loc>http://localhost:8432/kriegsgeschaefte.ch/kriegsgeschaefte-initiative-offiziell-zustande-gekommen</loc>
 		<lastmod>2020-09-17T08:33+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://kriegsgeschaefte.ch/kriegsgeschaefte-initiative-ist-eingereicht</loc>
+		<loc>http://localhost:8432/kriegsgeschaefte.ch/kriegsgeschaefte-initiative-ist-eingereicht</loc>
 		<lastmod>2020-09-17T08:32+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://kriegsgeschaefte.ch/nationalbank-im-krieg</loc>
+		<loc>http://localhost:8432/kriegsgeschaefte.ch/nationalbank-im-krieg</loc>
 		<lastmod>2020-09-17T08:31+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://kriegsgeschaefte.ch/nach-nur-3-monaten-50000-unterschriften-gegen-kriegsgeschaefte</loc>
+		<loc>http://localhost:8432/kriegsgeschaefte.ch/nach-nur-3-monaten-50000-unterschriften-gegen-kriegsgeschaefte</loc>
 		<lastmod>2020-09-17T08:31+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://kriegsgeschaefte.ch/kriegsgeschaefte-initiative-ist-lanciert</loc>
+		<loc>http://localhost:8432/kriegsgeschaefte.ch/kriegsgeschaefte-initiative-ist-lanciert</loc>
 		<lastmod>2020-09-17T08:30+00:00</lastmod>
 	</url>
 </urlset>
